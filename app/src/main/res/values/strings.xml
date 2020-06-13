@@ -1,0 +1,46 @@
+<resources>
+
+<!--    Title-->
+    <string name="title">The Guardian</string>
+
+<!--    Favorites-->
+    <string name="favorites">Favorites</string>
+    <string name="remove_favorite">Remove from favorites?</string>
+    <string name="add_favorite">Add to favorites?</string>
+    <string name="removed_favorites">Removed from favourites</string>
+    <string name="added_favorites">Added to favourites</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="link">Link</string>
+    <string name="help">Help</string>
+
+<!--    News Categories-->
+    <string name="news">NEWS</string>
+        <string name="world">World</string>
+        <string name="usa">US News</string>
+        <string name="uk">UK News</string>
+        <string name="business">Business</string>
+        <string name="sports">Sport</string>
+        <string name="politics">Politics</string>
+
+    <string name="others">OTHERS</string>
+        <string name="opinion">Opinion</string>
+        <string name="technology">Technology</string>
+        <string name="weather">Weather</string>
+        <string name="science">Science</string>
+        <string name="society">Society</string>
+        <string name="travel">Travel</string>
+
+<!--    Operations-->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="undo">Undo</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+<!--    Help Text-->
+    <string name="theGuardianHelpText">Welcome to The Guardian application! To get the recent articles from The Guardian about a topic, click on search icon, type your word and click on search icon on your keyboard. To add a news to your favorites or remove it from your favorites long click list item and click “Yes”.  To undo your selection, click undo on the sncakbar at the bottom of the screen. To get to details about the news, click on the list item. To add that news to your favorites or remove from your favorites, click on the star icon. To access to all your favorite news, click on the yellow star icon on your main page. \n\nApp developed by Emrah Kinay \n@simulacrumus</string>
+    <string name="developer_info">Developed by Emrah Kinay</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:id="@+id/main_menu">
+        <item
+            android:id="@+id/news"
+            android:title="@string/news"
+            app:showAsAction="always">
+            <menu>
+                    <item
+                        android:id="@+id/world"
+                        android:icon="@drawable/ic_world"
+                        android:title="@string/world"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/uk"
+                        android:icon="@drawable/ic_uk"
+                        android:title="@string/uk"
+                        app:showAsAction="ifRoom" />
+
+                    <item
+                        android:id="@+id/us"
+                        android:icon="@drawable/ic_united_states"
+                        android:title="@string/usa"
+                        app:showAsAction="ifRoom" />
+
+                    <item
+                        android:id="@+id/politics"
+                        android:icon="@drawable/ic_politics"
+                        android:title="@string/politics"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/business"
+                        android:icon="@drawable/ic_business"
+                        android:title="@string/business"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/sport"
+                        android:icon="@drawable/ic_sports"
+                        android:title="@string/sports"
+                        app:showAsAction="ifRoom" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/others"
+            android:title="@string/others"
+            app:showAsAction="ifRoom">
+                <menu>
+                    <item
+                        android:id="@+id/society"
+                        android:icon="@drawable/ic_society"
+                        android:title="@string/society"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/travel"
+                        android:icon="@drawable/ic_travel"
+                        android:title="@string/travel"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/weather"
+                        android:icon="@drawable/ic_weather"
+                        android:title="@string/weather"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/technology"
+                        android:icon="@drawable/ic_technology"
+                        android:title="@string/technology"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/science"
+                        android:icon="@drawable/ic_science"
+                        android:title="@string/science"
+                        app:showAsAction="ifRoom" />
+                    <item
+                        android:id="@+id/opinion"
+                        android:icon="@drawable/ic_opinion"
+                        android:title="@string/opinion"
+                        app:showAsAction="ifRoom" />
+                </menu>
+    </item>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#041f4a</color>
+    <color name="primary_dark">#041f4a</color>
+    <color name="accent">#03DAC5</color>
+    <color name="main">#052962</color>
+    <color name="dark">#041f4a</color>
+    <color name="pastel">#506991</color>
+    <color name="highlight">#ffe500</color>
+    <color name="neutral">#121212</color>
+    <color name="brightness">#333333</color>
+    <color name="white">#FFF</color>
+</resources>
